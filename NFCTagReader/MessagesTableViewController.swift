@@ -5,6 +5,10 @@ Abstract:
 The view controller that scans and displays NDEF messages.
 */
 
+let light1 = "https://maker.ifttt.com/trigger/turn_on/with/key/cj64pSbDB8BqGoy9n6QUv2"
+let light2 = "https://maker.ifttt.com/trigger/turn_on_2/with/key/cj64pSbDB8BqGoy9n6QUv2"
+let light3 = "https://maker.ifttt.com/trigger/turn_on_3/with/key/cj64pSbDB8BqGoy9n6QUv2"
+
 import UIKit
 import CoreNFC
 import Alamofire
